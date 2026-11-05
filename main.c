@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("hello cmrit");
+return 0;
+}
