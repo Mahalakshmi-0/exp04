@@ -2,5 +2,6 @@
 int main()
 {
   printf("hello cmrit");
+  printf("welcome");
 return 0;
 }
